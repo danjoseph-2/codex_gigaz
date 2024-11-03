@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/danjoseph-2/codex_gigaz/refs/heads/main/Screen
 
 https://raw.githubusercontent.com/danjoseph-2/codex_gigaz/refs/heads/main/Screenshot%20(34).png
 
-https://github.com/danjoseph-2/codex_gigaz/upload/main
+https://raw.githubusercontent.com/danjoseph-2/codex_gigaz/refs/heads/main/Screenshot%20(35).png
 
 ### Project Demo
 # Video
