@@ -39,7 +39,7 @@ https://github.com/danjoseph-2/codex_gigaz/upload/main
 
 ### Project Demo
 # Video
-https://github.com/danjoseph-2/codex_gigaz/upload/main
+https://github.com/danjoseph-2/codex_gigaz/blob/main/Forged%20Keyboard%20Symphony%20-%20Opera%202024-11-03%2007-30-53.mp4
 
 
 
