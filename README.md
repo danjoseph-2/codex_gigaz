@@ -33,7 +33,7 @@ For Software:
 # Screenshots (Add at least 3)
 https://raw.githubusercontent.com/danjoseph-2/codex_gigaz/refs/heads/main/Screenshot%20(32).png
 
-https://github.com/danjoseph-2/codex_gigaz/upload/main
+https://raw.githubusercontent.com/danjoseph-2/codex_gigaz/refs/heads/main/Screenshot%20(34).png
 
 https://github.com/danjoseph-2/codex_gigaz/upload/main
 
